@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MGJRouter_Tests' do
+  pod 'MGJRouter', :path => '../'
+  
+  
+end
